@@ -21,6 +21,7 @@
  
  #### Input iterator
 | Expression | Effect |
+| --- | --- |
 | `*iter` | Provides read access to the actual element |
 | `iter->member` |Provides read access to a member of the actual element |
 | `++iter` | Steps forward (returns new position) |
